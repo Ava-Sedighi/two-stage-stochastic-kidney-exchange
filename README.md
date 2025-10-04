@@ -77,9 +77,9 @@ pip install pyomo gurobipy pandas numpy networkx
 ```
 ## Repository Structure
 ```
-├── HSE_Project_Phase_II.ipynb    # Main implementation notebook  
-├── results/                      # Model outputs, metrics, and plots  
-└── README.md                     # Project description  
+├── Modeling & Sensetivity Analysis.ipynb    # Main implementation notebook  
+├── results/                                 # Model outputs, metrics, and plots  
+└── README.md                                # Project description  
 ```
 
 ## Author
