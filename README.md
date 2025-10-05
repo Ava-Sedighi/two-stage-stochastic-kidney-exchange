@@ -77,8 +77,8 @@ pip install pyomo gurobipy pandas numpy networkx
 ```
 ## Repository Structure
 ```
+├── report/                                 # Model outputs, metrics, and plots  
 ├── Modeling & Sensetivity Analysis.ipynb    # Main implementation notebook  
-├── results/                                 # Model outputs, metrics, and plots  
 └── README.md                                # Project description  
 ```
 
